@@ -1,0 +1,5 @@
+1. Difference in appearance of diodes and zener diodes!
+2. What is the difference between full wave rectifier DC output and the perfect DC output?
+3. How to identify nmos and cmos from physical Mosfets!
+4. Mosfets in multimeter?! junction?! 
+ 
